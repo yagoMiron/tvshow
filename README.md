@@ -1,1 +1,1 @@
-porjeto feito em sala de aula usando api tv maze
+projeto feito em sala de aula usando api tv maze
